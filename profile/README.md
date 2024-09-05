@@ -67,7 +67,7 @@ https://www.erdcloud.com/d/sujBrFmMabLKnYqf6
 
 ### API
 
-[API Docs](https://grateful-celsius-738.notion.site/API-Docs-badecb7420034b518245977c9f66a2ff?pvs=4))
+[API Docs](https://grateful-celsius-738.notion.site/API-Docs-badecb7420034b518245977c9f66a2ff?pvs=4)
 
 ### UCC
 
