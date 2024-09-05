@@ -18,7 +18,7 @@
 
 ## 서비스 아키텍처
 
-![아키텍처](image.png)
+![아키텍처](https://github.com/user-attachments/assets/4b29772e-44f4-430f-9af7-3f1883a04fb6)
 
 ## 개발 환경 구성
 ![개발 환경 구성](https://github.com/user-attachments/assets/67ace41d-d8f3-4494-b4f0-ac90ea335300)
