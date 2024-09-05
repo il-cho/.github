@@ -20,6 +20,9 @@
 
 ![아키텍처](image.png)
 
+## 개발 환경 구성
+![개발 환경 구성](https://github.com/user-attachments/assets/67ace41d-d8f3-4494-b4f0-ac90ea335300)
+
 ## 제공 기능
 1. 소셜 로그인
 2. 맞춤형 초대장 생성 기능
@@ -53,25 +56,15 @@ Figma, Notion, Jira, Mattermost
 
 ## 관련 링크
 
-### 시연 시나리오
+### [시연 시나리오](https://grateful-celsius-738.notion.site/c832f8b788bf40568af80b1a9714b872?pvs=4) 
 
-[시연 시나리오](https://grateful-celsius-738.notion.site/c832f8b788bf40568af80b1a9714b872?pvs=4) 
+### [Figma](https://www.figma.com/design/gaW5Ivlm9DOIVtyzD5CNlZ/%EC%B4%88%EB%8C%80%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4?node-id=423-980&t=eYDTtjFTNm6s0mAG-1)
 
-### Figma
+### [ERD 설계](https://www.erdcloud.com/d/sujBrFmMabLKnYqf6)
 
-[Figma](https://www.figma.com/design/gaW5Ivlm9DOIVtyzD5CNlZ/%EC%B4%88%EB%8C%80%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4?node-id=423-980&t=eYDTtjFTNm6s0mAG-1)
+### [API Docs](https://grateful-celsius-738.notion.site/API-Docs-badecb7420034b518245977c9f66a2ff?pvs=4)
 
-### ERD
-
-[ERD 설계](https://www.erdcloud.com/d/sujBrFmMabLKnYqf6)
-
-### API
-
-[API Docs](https://grateful-celsius-738.notion.site/API-Docs-badecb7420034b518245977c9f66a2ff?pvs=4)
-
-### UCC
-
-[Youtube](https://youtu.be/w7IjH3orgAg)
+### [UCC](https://youtu.be/w7IjH3orgAg)
 
 
 ## 팀 정보
