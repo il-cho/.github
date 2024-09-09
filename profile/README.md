@@ -60,7 +60,7 @@ Figma, Notion, Jira, Mattermost
 
 ### [Figma](https://www.figma.com/design/gaW5Ivlm9DOIVtyzD5CNlZ/%EC%B4%88%EB%8C%80%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4?node-id=423-980&t=eYDTtjFTNm6s0mAG-1)
 
-### [ERD 설계](https://www.erdcloud.com/d/sujBrFmMabLKnYqf6)
+### [ERD 설계](https://www.erdcloud.com/d/5osBW73YwBFaY9EwQ)
 
 ### [API Docs](https://grateful-celsius-738.notion.site/API-Docs-badecb7420034b518245977c9f66a2ff?pvs=4)
 
