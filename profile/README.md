@@ -23,6 +23,10 @@
 ## 개발 환경 구성
 ![개발 환경 구성](https://github.com/user-attachments/assets/67ace41d-d8f3-4494-b4f0-ac90ea335300)
 
+## 설정 파일 관리
+![Spring cloud Config 서버](https://github.com/user-attachments/assets/d4445bd5-c7ea-4604-95b4-02f9ac4a3ef1)
+
+
 ## 제공 기능
 1. 소셜 로그인
 2. 맞춤형 초대장 생성 기능
