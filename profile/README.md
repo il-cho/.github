@@ -44,7 +44,7 @@ Git, Github
 
 ### Development
 
-Spring Boot, Spring Security, JPA, Node.js, MySQL, MongoDB, Redis
+Spring Boot, Spring Security, JPA, Node.js, MySQL, MongoDB, Redis, React, Zustand, Tailwind
 
 ### CI/CD
 
