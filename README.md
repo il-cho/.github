@@ -40,7 +40,7 @@ Git, Github
 
 ### Development
 
-Spring Boot, Spring Security, JPA, Node.js, MySQL, MongoDB, Redis
+Spring Boot, Spring Security, Spring cloud, JPA, QueryDSL, Node.js, MySQL, MongoDB, Redis
 
 ### CI/CD
 
