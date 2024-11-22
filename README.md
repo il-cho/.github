@@ -14,8 +14,6 @@
 >
 
 
-**[일초 : 일상으로 초대 💌](https://il-cho.site)**
-
 ## 서비스 아키텍처
 
 ![아키텍처](https://github.com/user-attachments/assets/4b29772e-44f4-430f-9af7-3f1883a04fb6)
